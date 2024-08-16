@@ -1,8 +1,17 @@
 ## Olá, sou a Sara 👋
 
 ### Sobre minha vida profissional: 
-
 - Atual professora de python da Fundação Educere
+- Desenvolvedora de um sistema de controle de patrimônio
+  
+### Escolaridade:
+- Ensino Fundamental II: Colégio Cívico-Militar Marechal Rondon
+- Ensino Médio: Universidade Tecnológica Federal do Paraná
+
+### Estudos: 
+- Aprendendo a linguagem PHP
+- Retomando Python
+- OSI
 
 <!--
 **saraqwe123/saraqwe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
