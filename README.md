@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, sou a Sara 👋
+
+### Sobre minha vida profissional: 
+
+- Atual professora de python da Fundação Educere
 
 <!--
 **saraqwe123/saraqwe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
