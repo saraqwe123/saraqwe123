@@ -12,6 +12,7 @@
 - Aprendendo a linguagem PHP
 - Retomando Python
 - OSI
+- Aplicações Web
 
 <!--
 **saraqwe123/saraqwe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
